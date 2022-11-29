@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ứng Dụng Đa Ngôn Ngữ</string>
+    <string name="hintTen">Tên</string>
+    <string name="hintMatKhau">Mật khẩu</string>
+    <string name="hintTaiKhoan">Tài khoản</string>
+    <string name="txtDangKy">Đăng ký</string>
+    <string name="txtTaiKhoan">"Tài hhoản là "</string>
+    <string name="txtMatKhau">"Mật khẩu là "</string>
+    <string name="btnNhan">Xác nhận</string>
+    <string name="txtforgotpassword">Không có tài khoản. Vui lòng đăng ký</string>
+    <string name="txtTen">Xin Chào</string>
+</resources>

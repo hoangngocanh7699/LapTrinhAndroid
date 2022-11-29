@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MutilLanguage</string>
+    <string name="hintTen">Name</string>
+    <string name="hintTaiKhoan">Account</string>
+    <string name="hintMatKhau">Password</string>
+    <string name="txtDangKy">Register</string>
+    <string name="btnNhan">Confirm</string>
+    <string name="txtforgotpassword">Dont gave account. Sign Up</string>
+
+    <string name="txtTen">Hello</string>
+    <string name="txtTaiKhoan">Account is </string>
+    <string name="txtMatKhau">Password is </string>
+</resources>

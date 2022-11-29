@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name"> Đổi Đơn vị Đo Chiều Dài</string>
+    <string name="haily_unit">Hải Lý</string>
+    <string name="dam_unit">Dặm</string>
+    <string name="km_unit">Kilometer</string>
+    <string name="ly_unit">Lý</string>
+    <string name="met_unit">Met</string>
+    <string name="yard_unit">Yard</string>
+    <string name="foot_unit">Foot</string>
+    <string name="inches_unit">Inches</string>
+</resources>
